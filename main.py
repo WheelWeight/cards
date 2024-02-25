@@ -1,4 +1,4 @@
-import draw_form as a
+import d_t as a
 
 mes_n = ["Name","Phone Number","Email Address"]
 
@@ -7,7 +7,7 @@ mes = [mes_n,
 ["Lisa","14456782343","12677888888888876768768766@gg.com"]]
 
 def main():
-    a.d_f(mes)
+    a.d_t(mes)
 
 if __name__ == "__main__":
     main()
